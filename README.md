@@ -64,9 +64,9 @@
     <a href="https://www.hackerrank.com/_181500292/">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
     </a>&nbsp;&nbsp;
-</p>      
+</p> 
 
 ![Profile views](https://gpvc.arturio.dev/JanviPangoriya)
-## <p align="center">Thanks for visitng ❤</p>
+### <p align="center">Thanks for visitng ❤</p>
 
   
