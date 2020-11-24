@@ -18,7 +18,7 @@
 ### FullStack learning
 - [To-do List](https://janvipangoriya.github.io/FullStack_Assignment/practical/practical16.html) <br>
 - [Live Clock](https://janvipangoriya.github.io/FullStack_Assignment/practical/practical17.html) <br>
-- [Practical book For frontend](https://github.com/JanviPangoriya/FullStack_Assignment)
+- [Practical book For frontend](https://janvipangoriya.github.io/FullStack_Assignment/)
 
 ### Android learning
 - [Bookopedia](https://github.com/JanviPangoriya/Book_finder_app_mini_project)<br>
