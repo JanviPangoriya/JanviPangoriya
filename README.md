@@ -52,7 +52,7 @@
  <br>   
  <br>
 
-## <div align="left">Connect with me</div>
+## <div style ="align:left">Connect with me</div>
 <p align='center'>
   <a href="mailto:janviguptaji2001@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
