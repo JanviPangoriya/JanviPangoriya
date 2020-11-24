@@ -45,9 +45,14 @@
 
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanviPangoriya&show_icons=true)
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JanviPangoriya&show_icons=true&hide_border=true" />
+<br>
+<br><br>
+<br>
+ <br>  
+ <br>   
+ <br>
 
-
-## Connect with me
+## <div align="left">Connect with me</div>
 <p align='center'>
   <a href="mailto:janviguptaji2001@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
