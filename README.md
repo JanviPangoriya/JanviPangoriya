@@ -1,5 +1,6 @@
 ## Welcome!! I'm Janvi Pangoriya 👋:grinning:
-#### Student of GLA University 3rd year B.tech(CSE) . 
+#### Student of GLA University 3rd year B.tech(CSE) .
+<img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
 
 - ⚡ I’m currently learning machine learning
 - ⚡ Enhacing my skills in fullstack
@@ -65,5 +66,7 @@
     </a>&nbsp;&nbsp;
 </p>      
 
-  ### ![Profile views](https://gpvc.arturio.dev/JanviPangoriya)
-  ## <p align="center">Thanks for visitng ❤</p>
+![Profile views](https://gpvc.arturio.dev/JanviPangoriya)
+## <p align="center">Thanks for visitng ❤</p>
+
+  
