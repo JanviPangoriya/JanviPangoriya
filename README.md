@@ -1,5 +1,28 @@
-## Welcome ,I'm Janvi Pangoriya 👋:grinning:
+## Hye There 👋:grinning:
+#### I am Janvi Pangoriya student of GLA University 3rd year B.tech(CSE) . 
+- ⚡ I’m currently learning machine learning
+- ⚡ Enhacing my skills in fullstack
+- ⚡Learning Android 
+- 🤔 I’m looking for help in learning about Web Dev and JavaScript 
+
+- :grinning:Looking forward to contribute in open source Projects.
 <img align='right' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="230">
+
+
+
+## 💬Lets talk About Projects :
+### ML learning
+[Fake News Detection](https://github.com/JanviPangoriya/FAKE_NEWS_DETECTION)<br>
+[Sentiments - Analysis](https://sentiments-analaysis.herokuapp.com/)
+[Flight Price Prediction](https://flight-price1.herokuapp.com/)
+
+### FullStack learning
+[To-do List](https://janvipangoriya.github.io/FullStack_Assignment/practical/practical16.html) <br>
+[Live Clock](https://janvipangoriya.github.io/FullStack_Assignment/practical/practical17.html) <br>
+[Practical book For frontend](https://github.com/JanviPangoriya/FullStack_Assignment)
+
+### Android learning
+[Bookopedia](https://github.com/JanviPangoriya/Book_finder_app_mini_project)<br>
 
 ### Languages and Tools:
 <p>
@@ -20,7 +43,8 @@
 
 #### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanviPangoriya&show_icons=true)
 
-
+<br>
+<br>
  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JanviPangoriya&show_icons=true&hide_border=true" />
 <br>
 <br>
@@ -42,4 +66,6 @@
     <img src="
     </a>&nbsp;&nbsp;
 </p>       
-![](https://komarev.com/ghpvc/?username=JanviPangoriya&label=PROFILE+VIEWS)
+<p>
+  ![Profile views](https://gpvc.arturio.dev/JanviPangoriya)
+              </p>
