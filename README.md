@@ -69,6 +69,6 @@
 </p> 
 
 ![Profile views](https://gpvc.arturio.dev/JanviPangoriya)
-### <p align="center">Thanks for visitng ❤</p>
+### <p align="center">Thanks for visiting ❤</p>
 
   
