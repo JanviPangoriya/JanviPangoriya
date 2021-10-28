@@ -43,14 +43,6 @@
     <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>&nbsp;&nbsp;
 </p>
 
-#### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanviPangoriya&show_icons=true)
- <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=JanviPangoriya&show_icons=true&hide_border=true" />
-<br>
-<br><br>
-<br>
- <br>  
- <br>   
- <br>
 
 ## <div style ="align:left">Connect with me</div>
 <p align='center'>
@@ -69,6 +61,6 @@
 </p> 
 
 ![Profile views](https://gpvc.arturio.dev/JanviPangoriya)
-### <p align="center">Thanks for visiting ❤</p>
+### <p align="center">Thanks for visiting</p>
 
   
